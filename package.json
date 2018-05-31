@@ -1,0 +1,25 @@
+{
+  "name": "artisan-barrel-concrete",
+  "version": "1.0.0",
+  "description": "This is an information site built for a decorative concrete company out of Kerrville, TX. to display a product portfolio, current pricing, and possibly current scheduling to allow clients a better idea of potential scheduling.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianw0991/Artisan-Barrel-Concrete.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianw0991/Artisan-Barrel-Concrete/issues"
+  },
+  "homepage": "https://github.com/brianw0991/Artisan-Barrel-Concrete#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "sequelize": "^4.37.10"
+  }
+}
